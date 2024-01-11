@@ -23,3 +23,7 @@ function calculate() {
     document.getElementById('display').value = 'Error';
   }
 }
+
+function (x, y) {
+  return x + y;
+}
